@@ -1,0 +1,23 @@
+{
+	"unused_css_rules": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) and turning on Used CSS will help with this issue. Used CSS will identify the CSS classes that are actually used by each page, and remove any others to keep the page size small.",
+	"uses_webp_images": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) and turning on Next-Gen Image Formats will help with this issue. This will automatically convert your images to webp format for supported browsers.",
+	"offscreen_images": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) and turning on Load Images will help with this issue. This will detect which images are not in the initial viewport, and automatically lazy load them to increase page speed.",
+	"total_byte_weight": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) will help with this issue. There are multiple features that will all work together to reduce the total size of your pages.",
+	"render_blocking_resources": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) and turning on Critical CSS will help with this issue. Critical CSS will detect the CSS necessary to properly layout your page and include it inline within the head tag, as recommended.",
+	"unminified_css": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) and turning on Used CSS will help with this issue. Used CSS will serve a minified version of the CSS classes that are actually used by your site.",
+	"uses_long_cache_ttl": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) and turning on Efficient Static Cache Policy will help with this issue. This will adjust the cache times on your assets to recommended values.",
+	"uses_optimized_images": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) and turning on Resize Images will help with this issue. Resize Images will serve an image that is optimized for the user's browser.",
+	"uses_text_compression": "Ezoic automatically compresses text files before sending them to the browser.",
+	"uses_responsive_images": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) and turning on Resize Images will help with this issue. Resize Images will detect the size of the user's screen and serve them an appropriately sized image that looks good and uses the least amount of bandwidth.",
+	"time_to_first_byte": "Installing the [Ezoic Caching App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=20) will help with this. By caching your site content across our worldwide network, you can speed up the time to first byte.",
+	"uses-rel-preconnect": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) and turning on Preconnect Origins will help with this issue. This will automatically add appropriate pre-connect tags to your page to speed up connection times.",
+	"critical-request-chains": "Installing the [Ezoic Site Speed App](https://svc.ezoic.com/svc/pub/apps/store.php?aID=56) and turning on Critical CSS will help with this issue. Critical CSS will detect the CSS necessary to properly layout your page and include it inline to reduce the number of critical request chains",
+	"unminified_javascript": "",
+	"efficient_animated_content": "",
+	"unused_javascript": "",
+	"redirects": "",
+	"user-timings": "",
+	"uses-rel-preload": "",
+	"dom-size": "",
+	"font-display": ""
+  }
